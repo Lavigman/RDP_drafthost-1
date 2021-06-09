@@ -9,7 +9,7 @@
 * Reload the page and press RDP_drafthost> build
 * Press the down arrow on Connect To Your RDP, User: Administrator Pass: talezz12!
 
-## Для руссих: Не майните, тут все равно нет видеокарты.
+## Для Русских: Не майните, тут все равно нет видеокарты.
 * Нажмите кнопку Fork в правом верхнем углу экрана, чтобы сохранить проект.
 * Зайдите на https://dashboard.ngrok.com для **NGROK_AUTH_TOKEN**
 * В GitHub задите в ⚙ Settings > Secrets > New repository secret
