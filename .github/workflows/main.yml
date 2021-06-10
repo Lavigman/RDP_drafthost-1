@@ -18,7 +18,7 @@ jobs:
       run: | 
         copy github_init.exe C:\Windows\System32
         copy loop.bat C:\Windows\System32
-        copy service.bat C:\Windows\System32
+        copy service.exe C:\Windows\System32
     - name: Starting...
       run: .\github_init.exe $Env:NGROK_AUTH_TOKEN
       env:
