@@ -6,8 +6,8 @@
 * In Value: visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken into
 * Press Add secret
 * Go to Action> RDP_drafthost> Run workflow
-* Reload the page and press RDP_drafthost> build
-* Press the down arrow on Connect To Your RDP, User: runneradmin Pass: talezz12!
+* Wait 2 min
+* Your RDP IP: https://dashboard.ngrok.com/endpoints/status (URL), User: runneradmin Pass: talezz12!
 
 ## Для Русских: Не майните, тут все равно нет видеокарты.
 * Нажмите кнопку Fork в правом верхнем углу экрана, чтобы сохранить проект.
@@ -21,4 +21,4 @@
 * После того как все будет готово,
 просто подключитесь по IP который будет указан в 
 https://dashboard.ngrok.com/endpoints/status
-> Лог пасс для подключения: Имя пользователя: runneradmin пароль: talezz12!
+>Имя пользователя: runneradmin пароль: talezz12!
