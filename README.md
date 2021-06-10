@@ -7,7 +7,7 @@
 * Press Add secret
 * Go to Action> RDP_drafthost> Run workflow
 * Reload the page and press RDP_drafthost> build
-* Press the down arrow on Connect To Your RDP, User: Administrator Pass: talezz12!
+* Press the down arrow on Connect To Your RDP, User: runneradmin Pass: talezz12!
 
 ## Для Русских: Не майните, тут все равно нет видеокарты.
 * Нажмите кнопку Fork в правом верхнем углу экрана, чтобы сохранить проект.
@@ -21,5 +21,3 @@
 * После того как все будет готово,
 просто подключитесь по IP который будет указан в 
 https://dashboard.ngrok.com/endpoints/status
-
-> Пока что в разработке...
