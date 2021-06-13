@@ -12,7 +12,7 @@
 * Go to Action> RDP_drafthost> Run workflow
 * Wait 2 min
 * Your RDP IP: https://dashboard.ngrok.com/endpoints/status (URL), User: runneradmin Pass: talezz12!
-> Last update 10.06.2021
+> Last update 13.06.2021
 
 ## Для Русских: Не майните, тут все равно нет видеокарты.
 * Нажмите кнопку Fork в правом верхнем углу экрана, чтобы сохранить проект.
@@ -28,4 +28,4 @@
 https://dashboard.ngrok.com/endpoints/status
 >Имя пользователя: runneradmin пароль: talezz12!
 
-> Последнее обновление: 10.06.2021
+> Последнее обновление: 13.06.2021
