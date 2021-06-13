@@ -1,3 +1,7 @@
+## Don't forget to update your repository, I am releasing updates
+
+## Не забывайте обновлять свой репозиторий, я выпускаю обновления
+
 ## PLEASE DON'T MINING CRYPTO AGAIN
 * Click Fork in the right corner of the screen to save it to your Github.
 * Visit https://dashboard.ngrok.com to get **NGROK_AUTH_TOKEN**
