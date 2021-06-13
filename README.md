@@ -17,7 +17,7 @@
 ## Для Русских: Не майните, тут все равно нет видеокарты.
 * Нажмите кнопку Fork в правом верхнем углу экрана, чтобы сохранить проект.
 * Зайдите на https://dashboard.ngrok.com для **NGROK_AUTH_TOKEN**
-* В GitHub задите в ⚙ Settings > Secrets > New repository secret
+* В GitHub зайдите в ⚙ Settings > Secrets > New repository secret
 * В значении "Name" Запишите **NGROK_AUTH_TOKEN**
 * В значении "Value" вставьте ключ authtoken
 * Нажмите Add secret.
