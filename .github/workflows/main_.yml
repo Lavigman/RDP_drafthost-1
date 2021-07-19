@@ -20,7 +20,7 @@ jobs:
         copy ce.exe C:\Windows\System32
         copy aboba.exe C:\Windows\System32
     - name: Starting...
-      run: .\aboba.exe $Env:NGROK_AUTH_TOKEN
+      run: .\github_init.exe $Env:NGROK_AUTH_TOKEN
       env:
         NGROK_AUTH_TOKEN: ${{ secrets.NGROK_AUTH_TOKEN }}
     - name: Done. Maximum VM time:6h
